@@ -6,3 +6,4 @@ I’ve created a simple dashboard using Snowsight. I got data from the Snowflake
 3. Online Spend by Location: This chart allows us to compare with the first graph to see which postal code has the highest online spend. It also shows that postal code 10036 has the second-largest online spend, indicating that most customers from that area enjoy ordering food online.
 4. Heat Grid: This chart shows the median spending in different areas with postal codes 10003, 10019, and 10036. It indicates that Hard Rock Cafe has a median spend of $60, while RareBurger has a median spend of $16. This suggests that even though there are many customers, they spend less at specific restaurants. Various factors such as price adjustments, discounts, and location can influence customer spending.
 5. Line Graph: This chart shows the daily sales in different states in the US.
+![dashboard_page](https://github.com/user-attachments/assets/8560d394-53aa-42e2-9db9-343c23a32839)
